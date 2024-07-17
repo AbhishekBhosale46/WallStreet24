@@ -1,6 +1,6 @@
 # 📊📈💸 Wallstreet24
 
-**Wallstreet24** WallStreet is a real-time stock market simulation platform, where the users can subscribe for Ipos, buy and sell the stocks, view interactive charts and explore the stock news to analyze the stocks.
+**Wallstreet24** is a real-time stock market simulation platform, where the users can subscribe for Ipos, buy and sell the stocks, view interactive charts and explore the stock news to analyze the stocks.
 
 ## Table of Contents
 - [Features](#features)
